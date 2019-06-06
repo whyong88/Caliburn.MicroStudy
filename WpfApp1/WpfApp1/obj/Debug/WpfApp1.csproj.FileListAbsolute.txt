@@ -42,3 +42,5 @@ D:\MyStudy\WPF\20190604\WpfApp1\WpfApp1\bin\Debug\Caliburn.Micro.Platform.pdb
 D:\MyStudy\WPF\20190604\WpfApp1\WpfApp1\bin\Debug\Microsoft.Xaml.Behaviors.xml
 D:\MyStudy\WPF\20190604\WpfApp1\WpfApp1\obj\Debug\Views\ConductorView.baml
 D:\MyStudy\WPF\20190604\WpfApp1\WpfApp1\obj\Debug\Views\TabView.baml
+D:\MyStudy\WPF\20190604\WpfApp1\WpfApp1\obj\Debug\Views\CoroutineView.g.cs
+D:\MyStudy\WPF\20190604\WpfApp1\WpfApp1\obj\Debug\Views\CoroutineView.baml

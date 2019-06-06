@@ -23,6 +23,9 @@ namespace WpfApp1.Results
                 throw new InvalidOperationException("View must be a FrameworkElement to use VisualStateResult");
             }
 
+            var view = (FrameworkElement) context.View;
+            var success = VisualStateManager.GoToElementState(view, StateName, UseTransitions);
+            OnCompleted();
         }
     }
 }

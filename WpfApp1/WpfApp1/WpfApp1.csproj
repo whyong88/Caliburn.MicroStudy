@@ -111,6 +111,9 @@
     <Compile Include="Views\ConductorView.xaml.cs">
       <DependentUpon>ConductorView.xaml</DependentUpon>
     </Compile>
+    <Compile Include="Views\CoroutineView.xaml.cs">
+      <DependentUpon>CoroutineView.xaml</DependentUpon>
+    </Compile>
     <Compile Include="Views\FeatureView.xaml.cs">
       <DependentUpon>FeatureView.xaml</DependentUpon>
     </Compile>
@@ -175,6 +178,10 @@
       <Generator>MSBuild:Compile</Generator>
     </Page>
     <Page Include="Views\ConductorView.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Views\CoroutineView.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
