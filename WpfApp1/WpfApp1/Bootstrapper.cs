@@ -31,7 +31,9 @@ namespace WpfApp1
                 .PerRequest<BindingsViewModel>()
                 .PerRequest<BubblingViewModel>()
                 .PerRequest<ConductorViewModel>()
-                .PerRequest<CoroutineViewModel>();
+                .PerRequest<CoroutineViewModel>()
+                .PerRequest<DesignTimeViewModel>()
+                .PerRequest<EventAggregationViewModel>();
         }
 
         protected override void OnStartup(object sender, StartupEventArgs e)

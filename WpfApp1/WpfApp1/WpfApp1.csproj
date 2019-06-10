@@ -67,6 +67,7 @@
     <Compile Include="Bootstrapper.cs" />
     <Compile Include="Common\Lipsum.cs" />
     <Compile Include="Common\TaskHelper.cs" />
+    <Compile Include="Messages\SimpleMessage.cs" />
     <Compile Include="Results\MessageDialogResult.cs" />
     <Compile Include="Results\ResultBase.cs" />
     <Compile Include="Results\VisualStateResult.cs" />
@@ -88,6 +89,8 @@
     <Compile Include="ViewModels\CoroutineViewModel.cs" />
     <Compile Include="ViewModels\DesignTimeViewModel.cs" />
     <Compile Include="ViewModels\EventAggregationViewModel.cs" />
+    <Compile Include="ViewModels\Events\EventDestinationViewModel.cs" />
+    <Compile Include="ViewModels\Events\EventSourceViewModel.cs" />
     <Compile Include="ViewModels\ExecuteViewModel.cs" />
     <Compile Include="ViewModels\FeatureViewModel.cs" />
     <Compile Include="ViewModels\MenuViewModel.cs" />
@@ -113,6 +116,18 @@
     </Compile>
     <Compile Include="Views\CoroutineView.xaml.cs">
       <DependentUpon>CoroutineView.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Views\DesignTimeView.xaml.cs">
+      <DependentUpon>DesignTimeView.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Views\EventAggregationView.xaml.cs">
+      <DependentUpon>EventAggregationView.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Events\EventDestinationView.xaml.cs">
+      <DependentUpon>EventDestinationView.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Events\EventSourceView.xaml.cs">
+      <DependentUpon>EventSourceView.xaml</DependentUpon>
     </Compile>
     <Compile Include="Views\FeatureView.xaml.cs">
       <DependentUpon>FeatureView.xaml</DependentUpon>
@@ -182,6 +197,22 @@
       <Generator>MSBuild:Compile</Generator>
     </Page>
     <Page Include="Views\CoroutineView.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Views\DesignTimeView.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Views\EventAggregationView.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Views\Events\EventDestinationView.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Views\Events\EventSourceView.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>

@@ -44,3 +44,11 @@ D:\MyStudy\WPF\20190604\WpfApp1\WpfApp1\obj\Debug\Views\ConductorView.baml
 D:\MyStudy\WPF\20190604\WpfApp1\WpfApp1\obj\Debug\Views\TabView.baml
 D:\MyStudy\WPF\20190604\WpfApp1\WpfApp1\obj\Debug\Views\CoroutineView.g.cs
 D:\MyStudy\WPF\20190604\WpfApp1\WpfApp1\obj\Debug\Views\CoroutineView.baml
+D:\MyStudy\WPF\20190604\WpfApp1\WpfApp1\obj\Debug\Views\DesignTimeView.g.cs
+D:\MyStudy\WPF\20190604\WpfApp1\WpfApp1\obj\Debug\Views\DesignTimeView.baml
+D:\MyStudy\WPF\20190604\WpfApp1\WpfApp1\obj\Debug\Views\EventAggregationView.g.cs
+D:\MyStudy\WPF\20190604\WpfApp1\WpfApp1\obj\Debug\Views\Events\EventDestinationView.g.cs
+D:\MyStudy\WPF\20190604\WpfApp1\WpfApp1\obj\Debug\Views\Events\EventSourceView.g.cs
+D:\MyStudy\WPF\20190604\WpfApp1\WpfApp1\obj\Debug\Views\EventAggregationView.baml
+D:\MyStudy\WPF\20190604\WpfApp1\WpfApp1\obj\Debug\Views\Events\EventDestinationView.baml
+D:\MyStudy\WPF\20190604\WpfApp1\WpfApp1\obj\Debug\Views\Events\EventSourceView.baml
