@@ -33,7 +33,10 @@ namespace WpfApp1
                 .PerRequest<ConductorViewModel>()
                 .PerRequest<CoroutineViewModel>()
                 .PerRequest<DesignTimeViewModel>()
-                .PerRequest<EventAggregationViewModel>();
+                .PerRequest<EventAggregationViewModel>()
+                .PerRequest<ExecuteViewModel>()
+                .PerRequest<NavigationSourceViewModel>()
+                .PerRequest<NavigationTargetViewModel>();
         }
 
         protected override void OnStartup(object sender, StartupEventArgs e)

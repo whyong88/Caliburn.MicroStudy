@@ -10,11 +10,11 @@ none
 false
 DEBUG;TRACE
 D:\MyStudy\WPF\20190604\WpfApp1\WpfApp1\App.xaml
-15971710785
+181020972553
 
-441736389458
+481765482419
 16590672373
-ShellView.xaml;Views\ActionsView.xaml;Views\Activity\MessageActivityView.xaml;Views\Activity\PhotoActivityView.xaml;Views\BindingsView.xaml;Views\BubblingView.xaml;Views\ConductorView.xaml;Views\CoroutineView.xaml;Views\DesignTimeView.xaml;Views\EventAggregationView.xaml;Views\Events\EventDestinationView.xaml;Views\Events\EventSourceView.xaml;Views\FeatureView.xaml;Views\MenuView.xaml;Views\TabView.xaml;
+ShellView.xaml;Views\ActionsView.xaml;Views\Activity\MessageActivityView.xaml;Views\Activity\PhotoActivityView.xaml;Views\BindingsView.xaml;Views\BubblingView.xaml;Views\ConductorView.xaml;Views\CoroutineView.xaml;Views\DesignTimeView.xaml;Views\EventAggregationView.xaml;Views\Events\EventDestinationView.xaml;Views\Events\EventSourceView.xaml;Views\ExecuteView.xaml;Views\FeatureView.xaml;Views\MenuView.xaml;Views\NavigationSourceView.xaml;Views\NavigationTargetView.xaml;Views\TabView.xaml;
 
 False
 

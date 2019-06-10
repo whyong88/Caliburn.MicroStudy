@@ -52,3 +52,9 @@ D:\MyStudy\WPF\20190604\WpfApp1\WpfApp1\obj\Debug\Views\Events\EventSourceView.g
 D:\MyStudy\WPF\20190604\WpfApp1\WpfApp1\obj\Debug\Views\EventAggregationView.baml
 D:\MyStudy\WPF\20190604\WpfApp1\WpfApp1\obj\Debug\Views\Events\EventDestinationView.baml
 D:\MyStudy\WPF\20190604\WpfApp1\WpfApp1\obj\Debug\Views\Events\EventSourceView.baml
+D:\MyStudy\WPF\20190604\WpfApp1\WpfApp1\obj\Debug\Views\ExecuteView.g.cs
+D:\MyStudy\WPF\20190604\WpfApp1\WpfApp1\obj\Debug\Views\ExecuteView.baml
+D:\MyStudy\WPF\20190604\WpfApp1\WpfApp1\obj\Debug\Views\NavigationSourceView.g.cs
+D:\MyStudy\WPF\20190604\WpfApp1\WpfApp1\obj\Debug\Views\NavigationSourceView.baml
+D:\MyStudy\WPF\20190604\WpfApp1\WpfApp1\obj\Debug\Views\NavigationTargetView.g.cs
+D:\MyStudy\WPF\20190604\WpfApp1\WpfApp1\obj\Debug\Views\NavigationTargetView.baml
